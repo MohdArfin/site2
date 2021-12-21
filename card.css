@@ -21,6 +21,7 @@ img{
 
 #content{
     height: 40vh;
+    height: 100%;
     display: flex;
     position: relative;
     justify-content: center;
