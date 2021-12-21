@@ -63,7 +63,9 @@ img{
 }
 /*front side*/
 .cont-1{
-   
+    position: absolute;
+    top: 25%;
+    left: 10%;
     color: #ffcc33;
     display: flex;
     align-items: center;
