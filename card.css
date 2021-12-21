@@ -17,8 +17,7 @@ text-shadow: 1.5px 1px 1.5px whitesmoke;
 }
 
 #content{
-    position: absolute;
-    top:60%; 
+    margin: 30px;
     height: 30vh;
     display: flex;
     position: relative;
