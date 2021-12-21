@@ -20,6 +20,7 @@ h6{
     font-size: 200px;
 }
 #pricing-table {
+  height:100vh ;
   padding: 20px;
   text-align: center;
   align-items: center;
