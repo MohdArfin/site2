@@ -13,7 +13,7 @@ h5{
     font-family: 'Fruktur', cursive;
 font-family: 'Imperial Script', cursive;
 font-size: 75px;
-text-shadow: 0.8px 1px 0.8px whitesmoke;
+text-shadow: 1px 1px 1px whitesmoke;
 }
 img{
     border-radius: 50%;
@@ -64,7 +64,7 @@ img{
 /*front side*/
 .cont-1{
     position: absolute;
-    top: -25%;
+    top: -35%;
     left: 10%;
     color: #ffcc33;
     display: flex;
