@@ -42,7 +42,7 @@ img{
     margin: auto;
     transition: all 0.8s ease;
     backface-visibility: hidden;
-    
+    dislpay:block;
     overflow: hidden;
     border-radius: 15px;
     box-shadow: 2px 25px 46px 2px ;
