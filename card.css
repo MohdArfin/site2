@@ -20,8 +20,9 @@ img{
 }
 
 #content{
+    position: absolute;
+    top:30%; 
     height: 30vh;
-    
     display: flex;
     position: relative;
     justify-content: center;
