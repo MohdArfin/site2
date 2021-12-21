@@ -107,7 +107,7 @@ h6{
 .pricing-table .card .price {
   font-size: 7.5rem;
   position: relative;
-  margin: 0px 0px 20px;
+  margin: -20px 0px 20px;
   z-index: 2;
 }
 .pricing-table .card .price span {
