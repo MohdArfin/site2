@@ -11,6 +11,7 @@ a{
   text-decoration: none;
 }
 .header{
+  width: 100%vh;
   text-align: center;
   background: #7a41ff;
   background: linear-gradient(to bottom, #cfc7e0, #7838df);
