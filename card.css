@@ -20,7 +20,7 @@ img{
 }
 
 .content{
-    height: 40vh;
+    height: 50vh;
     display: flex;
     position: relative;
     justify-content: center;
@@ -29,13 +29,13 @@ img{
 .resume-card .card{
     perspective: 150rem;
     height: 200px;
-    width: 400px;
+    width: 350px;
     position: relative;
     border: none;
 }
 .card-side{
     height: 200px;
-    width: 400px;
+    width: 350px;
     position: absolute;
     top: 0;
     left: 0;
