@@ -26,7 +26,7 @@ img{
     justify-content: center;
     align-items: center;
 }
-.resume-card .card{
+#resume-card .card{
     perspective: 150rem;
     height: 140px;
     width: 350px;
