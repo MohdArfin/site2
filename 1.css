@@ -52,8 +52,8 @@ h6{
   transform: rotate(55deg);
   content: "instagram";
   position: absolute;
-  left: -170%;
-  top: -40%;
+  left: -120%;
+  top: -10%;
   font-size: 55px;
 }
 
@@ -73,7 +73,7 @@ h6{
   content: "whatsapp";
   position: absolute;
   left: -120%;
-  top: 0%;
+  top: 5%;
   font-size: 55px;
 }
 
@@ -87,8 +87,8 @@ h6{
   transform: rotate(55deg);
   content: "facebook";
   position: absolute;
-  left: -270%;
-  top: -70%;
+  left: -250%;
+  top: -10%;
   font-size: 55px;
 }
 
