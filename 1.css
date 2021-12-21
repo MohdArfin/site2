@@ -22,14 +22,14 @@ h6{
   position: absolute;
   top: 100vh;
   left: 50%;
-  padding: 30px;
+  padding: 20px;
   transform: translate(-50%, -50%);
   display: flex;
 }
 .card {
   width: 150px;
   height: 300px;
-  padding: 30px;
+  padding: 20px;
   border-radius: 1.5rem;
   display: flex;
   flex-direction: column;
