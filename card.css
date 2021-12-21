@@ -27,7 +27,7 @@ text-shadow: 1.5px 1px 1.5px whitesmoke;
 #resume-card .card{
     perspective: 150rem;
     height: 100%;
-    width: 90%;
+    width: 95%;
     position: relative;
     border: none;
 }
