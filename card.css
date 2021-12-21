@@ -12,7 +12,7 @@ body{
 h5{
     font-family: 'Fruktur', cursive;
 font-family: 'Imperial Script', cursive;
-font-size: 70px;
+font-size: 75px;
 text-shadow: 0.5px 0px 0.5px whitesmoke;
 }
 img{
@@ -64,8 +64,8 @@ img{
 /*front side*/
 .cont-1{
     position: absolute;
-    top: 20%;
-    left: 5%;
+    top: 5%;
+    left: 10%;
     color: #ffcc33;
     display: flex;
     align-items: center;
