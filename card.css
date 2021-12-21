@@ -16,22 +16,21 @@ font-size: 70px;
 text-shadow: 1.5px 1px 1.5px whitesmoke;
 }
 
-#content , .card{
-    perspective: 150rem;
+#content{
     margin: 40px 0px 40px 0px;
     height: 30vh;
     display: flex;
     position: relative;
     justify-content: center;
     align-items: center;
-}/*
+}
 #resume-card .card{
     perspective: 150rem;
     height: 100%;
     width: 95%;
     position: relative;
     border: none;
-}*/
+}
 .card-side{
     height: 100%;
     width: 100%;
