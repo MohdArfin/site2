@@ -28,7 +28,7 @@ img{
 }
 .resume-card .card{
     perspective: 150rem;
-    height: 250px;
+    height: 150px;
     width: 350px;
     position: relative;
     border: none;
