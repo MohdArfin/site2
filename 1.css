@@ -23,6 +23,7 @@ h6{
             height:100%;
             width:20%;
             margin:0px 30px 0px 30px;
+            border: solid;
 }
 #pricing-table {
   position: absolute;
