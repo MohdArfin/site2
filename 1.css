@@ -53,7 +53,7 @@ h6{
   content: "instagram";
   position: absolute;
   left: -120%;
-  top: -10%;
+  top: -20%;
   font-size: 55px;
 }
 
@@ -88,7 +88,7 @@ h6{
   content: "facebook";
   position: absolute;
   left: -250%;
-  top: -10%;
+  top: -20%;
   font-size: 55px;
 }
 
