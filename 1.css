@@ -192,9 +192,9 @@ h6{
   cursor: pointer;
   position: absolute;
   width: 250px;
-  height: 180px;
+  height: 150px;
   background: #fff;
-  border-radius: 40%;
+  border-radius: 35%;
   right: -34%;
   bottom: -27%;
   transition: all 0.4s ease-in-out;
@@ -204,7 +204,7 @@ h6{
   text-decoration: none;
   position: absolute;
   left: 25%;
-  font: 1.5rem bold;
+  font: 2.5rem bold;
   transition: all 0.4s ease-in-out;
 }/*
 .pricing-table .card:nth-child(1) .buy-button h3, .pricing-table .card:nth-child(3) .buy-button h3 {
