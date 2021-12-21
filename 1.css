@@ -27,8 +27,8 @@ h6{
   display: flex;
 }
 .card {
-  width: 220px;
-  height: 200px;
+  width: 150px;
+  height: 250px;
   padding: 80px;
   border-radius: 1.5rem;
   display: flex;
