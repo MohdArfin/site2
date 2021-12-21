@@ -29,13 +29,13 @@ img{
 }
 #resume-card .card{
     perspective: 150rem;
-    height: 30px;
+    height: 80px;
     width: 60%;
     position: relative;
     border: none;
 }
 .card-side{
-    height: 30%;
+    height: 80%;
     width: 60%;
     position: absolute;
     top: 0;
