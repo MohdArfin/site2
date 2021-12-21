@@ -64,7 +64,7 @@ img{
 /*front side*/
 .cont-1{
     position: absolute;
-    top: 25%;
+    top: 20%;
     left: 0%;
     color: #ffcc33;
     display: flex;
@@ -76,7 +76,7 @@ img{
 }
 .cont-2{
 position: absolute;
-  top: 25%;
+  top: 20%;
   left: 0%;
   transform: translate(-50%, -50%);
   color: white;
