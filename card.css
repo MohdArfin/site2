@@ -19,7 +19,7 @@ img{
     border-radius: 50%;
 }
 
-.content{
+#content{
     height: 50vh;
     display: flex;
     position: relative;
