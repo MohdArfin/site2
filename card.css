@@ -20,7 +20,7 @@ img{
 }
 
 #content{
-    height: 50vh;
+    height: 30vh;
     display: flex;
     position: relative;
     justify-content: center;
