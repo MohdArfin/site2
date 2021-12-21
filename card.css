@@ -62,6 +62,7 @@ text-shadow: 1.5px 1px 1.5px whitesmoke;
 /*front side*/
 .cont-1{
     text-align:center;
+    margin:30px;
     color: #ffcc33;
     display: flex;
     align-items: center;
