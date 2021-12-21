@@ -14,6 +14,7 @@ a{
   text-align: center;
   background: #7a41ff;
   background: linear-gradient(to bottom, #cfc7e0, #7838df);
+  dispaly: flex;
 }
 h6{
     font-size: 200px;
