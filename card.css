@@ -35,14 +35,14 @@ img{
 }
 .card-side{
     height: 200px;
-    width: 400px;
+    width: 410px;
     position: absolute;
     top: 0;
     left: 0;
     margin: auto;
     transition: all 0.8s ease;
     backface-visibility: hidden;
-    border-radius: 3px;
+    
     overflow: hidden;
     border-radius: 15px;
     box-shadow: 2px 25px 46px 2px ;
