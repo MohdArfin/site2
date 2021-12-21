@@ -64,7 +64,7 @@ img{
 /*front side*/
 .cont-1{
     position: absolute;
-    top: 5%;
+    top: -20%;
     left: 10%;
     color: #ffcc33;
     display: flex;
