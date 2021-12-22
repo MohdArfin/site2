@@ -7,6 +7,7 @@ body {
   text-transform: uppercase;
   text-shadow: 2px 3px 2px rgba(51, 55, 69, 0.6);
 }
+/*
 a{
   text-decoration: none;
 }
@@ -27,8 +28,7 @@ h6{
   text-align: center;
   align-items: center;
   transform: translate(-50%, -50%);
-  display: flex;
- 
+  display: flex; 
 }
 .card {
   width: 100px;
@@ -44,10 +44,7 @@ h6{
   box-shadow: 2px 2px 46px -4px rgba(0, 0, 0, 0.6);
   transition: all 0.2s ease-in-out;
 }
-
-
-
-/*instagram*/
+/*instagram
 #pricing-table .card:nth-child(1) {
   background: #ff416c;
   background: linear-gradient(to right, #ff4b2b, #f15e81);
@@ -63,7 +60,7 @@ h6{
 }
 
 
-/*whatsapp*/
+/*whatsapp
 #pricing-table .card:nth-child(2) {
   z-index: 2;
   width: 100px;
@@ -83,7 +80,7 @@ h6{
 }
 
 
-/*facebook*/
+/*facebook
 #pricing-table .card:nth-child(3) {
   background: #7f7fd5;
   background: linear-gradient(to left, #91eae4, #86a8e7, #7f7fd5);
@@ -97,13 +94,13 @@ h6{
   font-size: 55px;
 }
 
-/*instagram and whatsapp*/
+/*instagram and whatsapp
 #pricing-table .card:nth-child(1) #symbol, #pricing-table .card:nth-child(3) #symbol {
   font-size: 6rem;
 }
 
 
-/**/
+/*
 #type {
   margin-top: 20px;
   letter-spacing: 0.1rem;
@@ -122,7 +119,7 @@ h6{
   top: 65%;
 }
 
-/**/
+/*
 #pricing-table .card #symbol::before {
   position: absolute;
   content: "";
@@ -136,7 +133,7 @@ h6{
 }
 
 
-/*plan*/
+/*plan
 .plan {
   font-size: 1.3rem;
   position: relative;
@@ -161,12 +158,12 @@ h6{
 }
 
 
-/*card shake*/
+/*card shake
 #pricing-table .card:hover {
   transform: scale(1.02);
 }
 
-/*baground shake*/
+/*baground shake
 #pricing-table .card:hover #symbol::before {
   animation: text-hover 1s ease-in-out infinite normal;
 }
@@ -177,7 +174,7 @@ h6{
   right: -90%;
 }
 
-/*button*/
+/*button
 #card:nth-child(1) .buy-button,.card:nth-child(3) .buy-button {
   position: absolute;
   right: -34%;
@@ -211,7 +208,7 @@ h6{
 }*/
 
 
-/*button cetner*/
+/*button cetner
 #pricing-table .card:hover .buy-button {
   width: 100%;
   right: 0%;
