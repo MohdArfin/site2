@@ -36,9 +36,8 @@ a{
   align-items: center;
   transform: translate(-50%, -50%);
   display: flex;
-/*
  
-}
+}*/
 .card {
   width: 100px;
   height: 200px;
@@ -69,7 +68,7 @@ a{
 }
 
 
-/*whatsapp
+/*whatsapp*/
 #pricing-table .card:nth-child(2) {
   z-index: 2;
   width: 100px;
