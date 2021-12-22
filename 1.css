@@ -59,9 +59,9 @@ a{
   transform: rotate(55deg);
   content: "instagram";
   position: absolute;
-  left: 0%;
-  top: 0%;
-  font-size: 55px;
+  left: -230%;
+  top: -70%;
+  font-size: 45px;
 }
 
 
@@ -77,9 +77,9 @@ a{
   transform: rotate(55deg);
   content: "whatsapp";
   position: absolute;
-  left: 0%;
-  top: 0%;
-  font-size: 55px;
+  left: -230%;
+  top: -70%;
+  font-size: 45px;
 }
 
 
@@ -92,9 +92,9 @@ a{
   transform: rotate(70deg);
   content: "facebook";
   position: absolute;
-  left: -200%;
+  left: -230%;
   top: -70%;
-  font-size: 55px;
+  font-size: 45px;
 }
 
 /*instagram and whatsapp */
