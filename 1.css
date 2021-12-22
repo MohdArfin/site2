@@ -56,13 +56,13 @@ a{
   box-shadow: 2px 2px 46px -4px rgba(0, 0, 0, 0.6);
   transition: all 0.2s ease-in-out;
 }
-/*instagram
-#pricing-table .card:nth-child(1) {
+/*instagram*/
+#social-media .card:nth-child(1) {
   background: #ff416c;
   background: linear-gradient(to right, #ff4b2b, #f15e81);
 }
  
-#pricing-table .card:nth-child(1) .symbol::before {
+#social-media .card:nth-child(1) .symbol::before {
   transform: rotate(55deg);
   content: "instagram";
   position: absolute;
@@ -72,17 +72,15 @@ a{
 }
 
 
-/*whatsapp
-#pricing-table .card:nth-child(2) {
+/*whatsapp*/
+#social-media .card:nth-child(2) {
   z-index: 2;
-  width: 100px;
-  height: 200px;
-  margin:5px;
+  margin:1px;
   background: #00b09b;
   background: linear-gradient(to right, #96c93d, #00b09b);
 }
  
-#pricing-table .card:nth-child(2) #symbol::before {
+#social-media .card:nth-child(2) #symbol::before {
   transform: rotate(55deg);
   content: "whatsapp";
   position: absolute;
@@ -92,12 +90,12 @@ a{
 }
 
 
-/*facebook
-#pricing-table .card:nth-child(3) {
+/*facebook*/
+#social-media .card:nth-child(3) {
   background: #7f7fd5;
   background: linear-gradient(to left, #91eae4, #86a8e7, #7f7fd5);
 }
-#pricing-table .card:nth-child(3) #symbol::before {
+#social-media .card:nth-child(3) #symbol::before {
   transform: rotate(55deg);
   content: "facebook";
   position: absolute;
