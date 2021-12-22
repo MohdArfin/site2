@@ -74,11 +74,11 @@ a{
 }
  
 .card-deck .card:nth-child(2) #symbol::before {
-  transform: rotate(55deg);
+  transform: rotate(45deg);
   content: "whatsapp";
   position: absolute;
   left: -200%;
-  top: -30%;
+  top: -10%;
   font-size: 45px;
 }
 
