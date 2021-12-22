@@ -30,18 +30,15 @@ a{
 .h6{
     font-size: 200px;
 }
-/*
-#social-media{
-  position: absolute;
-  top: 100%;
-  left: 50%;
+
+.card-deck{
   padding: 15px;
   text-align: center;
   align-items: center;
   transform: translate(-50%, -50%);
   display: flex;
  
-}*/
+}
 .card {
   width: 50px;
   height: 300px;
