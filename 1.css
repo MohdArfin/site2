@@ -30,7 +30,7 @@ a{
 .h6{
     font-size: 200px;
 }
-
+/*
 #social-media{
   position: absolute;
   top: 100%;
@@ -41,10 +41,10 @@ a{
   transform: translate(-50%, -50%);
   display: flex;
  
-}
+}*/
 .card {
-  /*width: 150px;
-  height: 350px;*/
+  width: 150px;
+  height: 330px;
   padding: 35px;
   margin:10px;
   border-radius: 1.5rem;
