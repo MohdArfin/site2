@@ -21,10 +21,6 @@ a{
 .row{
     margin:5px;
 }
-.card .link{
-      position:fixed;
-      bottom:10%;
-}
 #nav-text{
   text-align: center;
   background: #7a41ff;
@@ -114,7 +110,7 @@ a{
 }*/
 .card #symbol {
   font-size: 7.5rem;
-  position: relative;
+  position: absolute;
   margin: -70px 0px 20px;
   z-index: 2;
 }
