@@ -95,7 +95,7 @@ a{
   background: #7f7fd5;
   background: linear-gradient(to left, #91eae4, #86a8e7, #7f7fd5);
 }
-}.card-deck .card:nth-child(3) #symbol::before {
+.card-deck .card:nth-child(3) #symbol::before {
   transform: rotate(55deg);
   content: "facebook";
   position: absolute;
@@ -104,8 +104,8 @@ a{
   font-size: 55px;
 }
 
-/*instagram and whatsapp
-#pricing-table .card:nth-child(1) #symbol, #pricing-table .card:nth-child(3) #symbol {
+/*instagram and whatsapp */
+.card-deck .card:nth-child(1) #symbol, .card-deck .card:nth-child(3) #symbol {
   font-size: 6rem;
 }
 
@@ -115,7 +115,7 @@ a{
   margin-top: 20px;
   letter-spacing: 0.1rem;
   font-size: 30px;
-}
+}*/
 #symbol {
   font-size: 7.5rem;
   position: relative;
@@ -129,8 +129,8 @@ a{
   top: 65%;
 }
 
-/*
-#pricing-table .card #symbol::before {
+/**/
+.card-deck .card #symbol::before {
   position: absolute;
   content: "";
   color: rgba(255, 255, 255, 0.06);
@@ -168,19 +168,19 @@ a{
 }
 
 
-/*card shake
-#pricing-table .card:hover {
+/*card shake*/
+.card-deck .card:hover {
   transform: scale(1.02);
 }
 
-/*baground shake
-#pricing-table .card:hover #symbol::before {
+/*baground shake*/
+.card-deck .card:hover #symbol::before {
   animation: text-hover 1s ease-in-out infinite normal;
 }
-#pricing-table .card:hover .plan::before {
+.card-deck .card:hover .plan::before {
   right: 90%;
 }
-#pricing-table .card:hover .plan::after {
+.card-deck .card:hover .plan::after {
   right: -90%;
 }
 
