@@ -107,7 +107,7 @@ a{
 #type {
   margin-top: 20px;
   letter-spacing: 0.1rem;
-  font-size: 30px;
+  font-size: 30%;
 }
 .card #symbol {
   font-size: 7.5rem;
@@ -116,6 +116,7 @@ a{
   margin: -70px 0px 20px;
   z-index: 2;
 }
+
 /*
 .pricing-table .card #symbol span {
   font-size: 1.8rem;
