@@ -112,7 +112,7 @@ a{
 .card #symbol {
   font-size: 7.5rem;
   position: absolute;
-  top:30%;
+  top:70%;
   margin: -70px 0px 20px;
   z-index: 2;
 }
