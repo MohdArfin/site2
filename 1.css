@@ -7,6 +7,11 @@ body {
   text-transform: uppercase;
   text-shadow: 2px 3px 2px rgba(51, 55, 69, 0.6);
 }
+.social-media{
+        height:500px ;
+        width:500;
+        border: 5px;
+}
 /*
 a{
   text-decoration: none;
