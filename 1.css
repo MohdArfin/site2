@@ -21,6 +21,10 @@ a{
 .row{
     margin:5px;
 }
+.link{
+      position:fixed;
+      bottom:10%;
+}
 #nav-text{
   text-align: center;
   background: #7a41ff;
