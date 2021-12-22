@@ -32,12 +32,7 @@ a{
 }
 
 .card-deck{
-  padding: 15px;
-  text-align: center;
-  align-items: center;
   transform: translate(-50%, -50%);
-  display: flex;
- 
 }
 .card {
   width: 50px;
