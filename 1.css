@@ -57,12 +57,12 @@ a{
   transition: all 0.2s ease-in-out;
 }
 /*instagram*/
-#social-media .card:nth-child(1) {
+.card-deck .card:nth-child(1) {
   background: #ff416c;
   background: linear-gradient(to right, #ff4b2b, #f15e81);
 }
  
-#social-media .card:nth-child(1) .symbol::before {
+.card-deck .card:nth-child(1) .symbol::before {
   transform: rotate(55deg);
   content: "instagram";
   position: absolute;
@@ -73,14 +73,14 @@ a{
 
 
 /*whatsapp*/
-#social-media .card:nth-child(2) {
+.card-deck .card:nth-child(2) {
   z-index: 2;
   margin:1px;
   background: #00b09b;
   background: linear-gradient(to right, #96c93d, #00b09b);
 }
  
-#social-media .card:nth-child(2) #symbol::before {
+.card-deck .card:nth-child(2) #symbol::before {
   transform: rotate(55deg);
   content: "whatsapp";
   position: absolute;
@@ -91,11 +91,11 @@ a{
 
 
 /*facebook*/
-#social-media .card:nth-child(3) {
+.card-deck .card:nth-child(3) {
   background: #7f7fd5;
   background: linear-gradient(to left, #91eae4, #86a8e7, #7f7fd5);
 }
-#social-media .card:nth-child(3) #symbol::before {
+}.card-deck .card:nth-child(3) #symbol::before {
   transform: rotate(55deg);
   content: "facebook";
   position: absolute;
