@@ -77,8 +77,8 @@ a{
   transform: rotate(70deg);
   content: "whatsapp";
   position: absolute;
-  left: -200%;
-  top: 0%;
+  left: -150%;
+  top: 5%;
   font-size: 45px;
 }
 
