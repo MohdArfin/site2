@@ -23,11 +23,11 @@ a{
   background: linear-gradient(to bottom, #cfc7e0, #7838df);
   dispaly: flex;
 }
-h6{
+.h6{
     font-size: 200px;
 }
-/*
-#pricing-table {
+
+#social-media{
   position: absolute;
   top: 100%;
   left: 50%;
@@ -35,7 +35,9 @@ h6{
   text-align: center;
   align-items: center;
   transform: translate(-50%, -50%);
-  display: flex; 
+  display: flex;
+/*
+ 
 }
 .card {
   width: 100px;
