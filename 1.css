@@ -17,6 +17,9 @@ body {
 a{
   text-decoration: none;
 }
+.row{
+    margin:5px;
+}
 #nav-text{
   text-align: center;
   background: #7a41ff;
