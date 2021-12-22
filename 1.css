@@ -192,7 +192,7 @@ a{
 .card-deck .card .buy-button {
   cursor: pointer;
   position: absolute;
-  
+  width: -500px;
   height: 150px;
   background: #fff;
   border-radius: 35%;
