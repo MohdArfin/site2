@@ -30,10 +30,10 @@ a{
 .h6{
     font-size: 200px;
 }
-
+/*
 .card-deck{
   transform: translate(-50%, -50%);
-}
+}*/
 .card {
   width: 50px;
   height: 300px;
