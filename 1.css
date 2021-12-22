@@ -77,8 +77,8 @@ a{
   transform: rotate(55deg);
   content: "whatsapp";
   position: absolute;
-  left: -230%;
-  top: -70%;
+  left: -200%;
+  top: -30%;
   font-size: 45px;
 }
 
@@ -93,7 +93,7 @@ a{
   content: "facebook";
   position: absolute;
   left: -230%;
-  top: -70%;
+  top: -50%;
   font-size: 45px;
 }
 
