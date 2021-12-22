@@ -92,8 +92,8 @@ a{
   transform: rotate(55deg);
   content: "facebook";
   position: absolute;
-  left: -130%;
-  top: -100%;
+  left: -100%;
+  top: -90%;
   font-size: 55px;
 }
 
