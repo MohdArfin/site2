@@ -18,9 +18,10 @@ body {
 a{
   text-decoration: none;
 }
+/*
 .row{
     margin:5px;
-}
+}*/
 #nav-text{
   text-align: center;
   background: #7a41ff;
@@ -111,9 +112,11 @@ a{
 .card #symbol {
   font-size: 7.5rem;
   position: absolute;
+  top:30%;
   margin: -70px 0px 20px;
   z-index: 2;
 }
+/*
 .pricing-table .card #symbol span {
   font-size: 1.8rem;
   position: absolute;
