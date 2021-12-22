@@ -42,7 +42,7 @@ a{
   width: 150px;
   height: 350px;
  padding: 5px;
-  margin:5px;
+  /*margin:5px;*/
   border-radius: 1.5rem;
   display: flex;
   position: relative;
