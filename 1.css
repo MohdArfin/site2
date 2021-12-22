@@ -42,7 +42,7 @@ a{
   display: flex;
  
 }*/
-#card {
+.card {
   /*width: 150px;
   height: 350px;*/
   padding: 35px;
@@ -51,8 +51,7 @@ a{
   display: flex;
   flex-direction: column;
   align-items: center;
-  position: absolute;
-  left: 10%;
+  position: relative;
   overflow: hidden;
   box-shadow: 2px 2px 46px -4px rgba(0, 0, 0, 0.6);
   transition: all 0.2s ease-in-out;
