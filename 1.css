@@ -39,10 +39,10 @@ a{
  
 }*/
 .card {
-  width: 150px;
-  height: 350px;
+  width: 10px;
+  height: 300px;
  padding: 5px;
-  /*margin:5px;*/
+  margin:5px;
   border-radius: 1.5rem;
   display: flex;
   position: relative;
