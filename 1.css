@@ -41,7 +41,7 @@ a{
 .card {
   height: 350px;
  padding: 35px;
-  margin:25px;
+  margin:10px;
   border-radius: 1.5rem;
   display: flex;
   flex-direction: column;
