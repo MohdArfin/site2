@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Imperial+Script&display=swap');
 
+
 /*
 body{
     background-image: linear-gradient(to bottom right, #6f00ff, #e4aa53);
@@ -10,6 +11,10 @@ body{
 }
 */
 #resume-title{
+    /*
+    font-family: 'Fruktur', cursive;
+font-family: 'Imperial Script', cursive;
+    */
     font-family: 'Fruktur', cursive;
 font-family: 'Imperial Script', cursive;
 font-size: 70px;
