@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Imperial+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Imperial+Script&family=Lora:ital@0;1&display=swap');
 
 
 /*
@@ -15,8 +16,9 @@ body{
     font-family: 'Fruktur', cursive;
 font-family: 'Imperial Script', cursive;
     */
-    font-family: 'Fruktur', cursive;
+font-family: 'Fruktur', cursive;
 font-family: 'Imperial Script', cursive;
+font-family: 'Lora', serif;
 font-size: 70px;
 text-shadow: 1.5px 1px 1.5px whitesmoke;
 }
