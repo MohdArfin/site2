@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+html{
+ background-image:src('https://images.pexels.com/photos/3694711/pexels-photo-3694711.jpeg?cs=srgb&dl=pexels-mitchell-luo-3694711.jpg&fm=jpg');
+}
 body {
   background: #000, text:#9C9C9C;
   color: #fff;
