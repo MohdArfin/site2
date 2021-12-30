@@ -4,7 +4,9 @@ html{
 }
 body {
   
- background-image:url('https://images.pexels.com/photos/1083822/pexels-photo-1083822.jpeg?cs=srgb&dl=pexels-lisa-1083822.jpg&fm=jpg');
+ background: #000000;
+ filter:blur(5px);
+ -webkit-filter:blur(5px);
   color: #fff;
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
