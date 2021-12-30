@@ -219,7 +219,7 @@ a{
   text-decoration: none;
   position: absolute;
   left: 25%;
-  font: 2.5rem bold;
+  font: 3rem bold;
   transition: all 0.4s ease-in-out;
 }/*
 .pricing-table .card:nth-child(1) .buy-button h3, .pricing-table .card:nth-child(3) .buy-button h3 {
