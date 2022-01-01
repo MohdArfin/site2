@@ -56,7 +56,15 @@ font-size: 70px;
     cursor: pointer;
 }
 .card-front-side{
-    background-color: #201e1e;
+   /* background-color: #201e1e;*/
+    background-image:#ff0000;background-image:  
+radial-gradient(at 40% 20%, hsla(28,100%,74%,1) 0, transparent 50%),  
+radial-gradient(at 80% 0%, hsla(189,100%,56%,1) 0, transparent 50%),  
+radial-gradient(at 0% 50%, hsla(355,85%,93%,1) 0, transparent 50%),  
+radial-gradient(at 80% 50%, hsla(340,100%,76%,1) 0, transparent 50%),  
+radial-gradient(at 0% 100%, hsla(22,100%,77%,1) 0, transparent 50%),  
+radial-gradient(at 80% 100%, hsla(242,100%,70%,1) 0, transparent 50%),  
+radial-gradient(at 0% 0%, hsla(343,100%,76%,1) 0, transparent 50%);
 }
 .card-back-side{
     transform: rotatey(180deg);
