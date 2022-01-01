@@ -64,7 +64,7 @@ a{
   background: linear-gradient(to right, #ff4b2b, #f15e81);
 }
  
-.card-deck .card:nth-child(1) .symbol::before {
+.card-deck .card:nth-child(1) #symbol::before {
   transform: rotate(55deg);
   content: "instagram";
   position: absolute;
@@ -125,15 +125,6 @@ a{
   margin: -70px 0px 20px;
   z-index: 2;
 }
-
-/*
-.pricing-table .card #symbol span {
-  font-size: 1.8rem;
-  position: absolute;
-  left: -15%;
-  top: 65%;
-}
-
 /**/
 .card-deck .card #symbol::before {
   position: absolute;
@@ -146,33 +137,6 @@ a{
   text-shadow: 0 0 0px rgba(51, 55, 69, 0);
   transition: all 1s ease-in-out;
 }
-
-
-/*plan
-.plan {
-  font-size: 1.3rem;
-  position: relative;
-  margin-bottom: 10px;
-}
-.plan::before, .plan::after {
-  position: absolute;
-  content: ;
-  width: 25px;
-  height: 3px;
-  background: #fff;
-  bottom: 40%;
-  transition: all 0.2s ease-out;
-}
-.plan::before {
-  right: 100%;
-  transform: translate(-50%, -50%);
-}
-.plan::after {
-  right: -100%;
-  transform: translate(0%, -50%);
-}
-
-
 /*card shake*/
 .card-deck .card:hover {
   transform: scale(1.02);
@@ -190,14 +154,6 @@ a{
 }
 
 /*button*/
-/*
-.card:nth-child(1) .buy-button,.card:nth-child(3) .buy-button {
-  position: absolute;
-  right: -34%;
-  bottom: -27%;
-  width: 10px;
-  height: 10px;
-}*/
 .card-deck .card .buy-button {
   cursor: pointer;
   position: absolute;
@@ -216,13 +172,7 @@ a{
   left: 25%;
   font: 3rem bold;
   transition: all 0.4s ease-in-out;
-}/*
-.pricing-table .card:nth-child(1) .buy-button h3, .pricing-table .card:nth-child(3) .buy-button h3 {
-  top: -15%;
-  left: 10%;
-  font: 1.7rem bold;
-}*/
-
+}
 
 /*button cetner*/
 .card-deck .card:hover .buy-button {
