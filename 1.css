@@ -75,7 +75,7 @@ a{
   content: "instagram";
   position: absolute;
   left: -230%;
-  top: -20%;
+  top: 0;
   font-size: 35px;
 }
 
