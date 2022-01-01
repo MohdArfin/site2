@@ -35,8 +35,8 @@ font-size: 70px;
 }
 #resume-card .card{
     perspective: 150rem;
-    height: 70%;
-    width: 60%;
+    height: 100%;
+    width: 95%;
     position: relative;
     border: none;
 }
