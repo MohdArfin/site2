@@ -113,7 +113,6 @@ a{
 }
 
 /*instagram and whatsapp */
-{
 .card-deck .card:nth-child(1) #symbol, .card-deck .card:nth-child(3) #symbol {
   font-size: 6rem;
 }
