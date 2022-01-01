@@ -35,6 +35,7 @@ a{
 }
 
 #nav-text{
+ color:from(#9969ff), to(#6139ff);
   text-align: center;
  /* background: #7a41ff;
   background: linear-gradient(to bottom, #cfc7e0, #7838df);*/
