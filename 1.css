@@ -196,6 +196,12 @@ a{
     right: -30%;
   }
 }
+.pricing-table .card #symbol span {
+  font-size: 1.8rem;
+  position: absolute;
+  left: -15%;
+  top: 65%;
+}
 
 
 .footer{
