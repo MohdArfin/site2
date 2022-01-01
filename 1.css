@@ -34,7 +34,7 @@ a{
   text-decoration: none;
 }
 .nav {
-     color:#9969ff;
+     color:#ffffff;
 }
 #nav-text{
  color:#9969ff;
@@ -217,7 +217,7 @@ a{
 .footer{
      height:100px;
      width:100%;
-     background-color:#000000;
+     background-color:#ffffff;
      text-align:center;
      align-justify;center;
 }
