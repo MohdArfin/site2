@@ -3,9 +3,10 @@ html{
  
 }
 body {
+ /*
   background-color:#000000;
- background-image: #000000;
-  color: #fff;
+ background-image: #000000;*/
+  color: #000000;
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
