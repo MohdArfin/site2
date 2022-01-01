@@ -57,7 +57,7 @@ font-size: 70px;
     cursor: pointer;
 }
 .card-front-side{
-   background-image: linear-gradient(90deg, #301865, #6139ff);
+   background-image: linear-gradient(90deg, #613aba, #6139ff);
    /* background-color: #201e1e;*/
     /* background: radial-gradient(ellipse farthest-corner at right  bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
                 radial-gradient(ellipse farthest-corner at left top, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%);*/
