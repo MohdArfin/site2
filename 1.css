@@ -71,7 +71,7 @@ a{
 }
  
 .card-deck .card:nth-child(1) #symbol::before {
-  transform: rotate(55deg);
+  transform: rotate(70deg);
   content: "instagram";
   position: absolute;
   left: -230%;
