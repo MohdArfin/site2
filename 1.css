@@ -18,9 +18,11 @@ marquee{
   text-align:center;
         width:400px;
 }
+
 #hi{
   width:100px;
 }
+
 h2{
   text-color:#ffffff;
   color:#ffffff;
@@ -37,6 +39,7 @@ a{
   background: linear-gradient(to bottom, #cfc7e0, #7838df);*/
   dispaly: flex;
 }
+
 .h6{
     font-size: 200px;
 }
@@ -44,6 +47,7 @@ a{
 .card-deck{
   transform: translate(-50%, -50%);
 }
+
 .card {
   width: 50px;
   height: 250px;
@@ -58,6 +62,7 @@ a{
   box-shadow: 2px 2px 46px -4px rgba(0, 0, 0, 0.6);
   transition: all 0.2s ease-in-out;
 }
+
 /*instagram*/
 .card-deck .card:nth-child(1) {
   background: #ff416c;
@@ -97,6 +102,7 @@ a{
   background: #7f7fd5;
   background: linear-gradient(to left, #91eae4, #86a8e7, #7f7fd5);
 }
+
 .card-deck .card:nth-child(3) #symbol::before {
   transform: rotate(70deg);
   content: "facebook";
@@ -107,6 +113,7 @@ a{
 }
 
 /*instagram and whatsapp */
+{
 .card-deck .card:nth-child(1) #symbol, .card-deck .card:nth-child(3) #symbol {
   font-size: 6rem;
 }
