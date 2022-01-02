@@ -57,7 +57,7 @@ font-size: clamp(40px, 15vw, 100px);
 }
 .card-front-side{
     background-color: #2f4353;
-background-image: linear-gradient(315deg, #2f4353 0%, #d2ccc4 74%);
+background-image: linear-gradient(315deg, #2f4353 10%, #d2ccc4 80%);
     /*background-color: #AFAFAF;
    background-image: linear-gradient(90deg, #613aba, #6139ff);
    /* background-color: #201e1e;*/
