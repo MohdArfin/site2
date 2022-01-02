@@ -2,15 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Imperial+Script&family=Lora:ital@0;1&display=swap');
 
 
-/*
-body{
-    background-image: linear-gradient(to bottom right, #6f00ff, #e4aa53);
-    background-repeat: no-repeat;
-    position: relative;
-    display: flex;
-    align-items: center;
-}
-*/
+
 #resume-title{
     /*
     font-family: 'Fruktur', cursive;
