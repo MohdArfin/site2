@@ -77,7 +77,7 @@ a{
   transform: rotate(70deg);
   content: "instagram";
   position: absolute;
-  left: -180%;
+  left: -150%;
   top: 5%;
   font-size: 35px;
 }
