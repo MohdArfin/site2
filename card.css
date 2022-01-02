@@ -23,7 +23,7 @@ font-family: 'Lora', serif;
 font-size: clamp(40px, 15vw, 100px);
     color: #000000;
     text-shadow: 2px 1px 1px #000000;
-    -webkit-box-reflect: below linear-gradient(to bottom);
+    -webkit-box-reflect: below ;
 }
 
 #content{
