@@ -64,7 +64,7 @@ a{
   align-items: center;
   position: relative;
   overflow: hidden;
-  box-shadow: 2px -4px 25px -4px #ffff 30%;
+  box-shadow: 2px -4px 25px -4px #ffff 60%;
   transition: all 0.2s ease-in-out;
 }
 
