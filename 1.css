@@ -18,10 +18,12 @@ body {
 marquee{
   text-align:center;
         width:300px;
+   text-shadow: 2px 3px 2px #ffff;
 }
 
 #hi{
   width:100px;
+  text-shadow: 2px 3px 2px #ffff;
 }
 
 h2{
@@ -70,7 +72,7 @@ a{
 /*instagram*/
 .card-deck .card:nth-child(1) {
   background: #ff416c;
-  background: linear-gradient(to right, #ff4b2b, #f15e81);
+  background: linear-gradient(to right, #ffff, #ffff);
 }
  
 .card-deck .card:nth-child(1) #symbol::before {
