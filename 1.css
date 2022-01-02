@@ -18,12 +18,12 @@ body {
 marquee{
   text-align:center;
         width:300px;
-   text-shadow: 2px 3px 2px #ffff;
+   text-shadow: 2px 1px 1px #ffff;
 }
 
 #hi{
   width:100px;
-  text-shadow: 2px 3px 2px #ffff;
+  text-shadow: 2px 1px 1px #ffff;
 }
 
 h2{
@@ -65,7 +65,7 @@ a{
   align-items: center;
   position: relative;
   overflow: hidden;
-  box-shadow: 2px 2px 46px -4px #ffff;
+  box-shadow: 2px 2px 5px -4px #ffff;
   transition: all 0.2s ease-in-out;
 }
 
