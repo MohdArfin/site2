@@ -65,14 +65,14 @@ a{
   align-items: center;
   position: relative;
   overflow: hidden;
-  box-shadow: 2px 2px 46px -4px rgba(0, 0, 0, 0.6);
+  box-shadow: 2px 2px 46px -4px #ffff;
   transition: all 0.2s ease-in-out;
 }
 
 /*instagram*/
 .card-deck .card:nth-child(1) {
   background: #ff416c;
-  background: linear-gradient(to right, #ffff, #ffff);
+  background: linear-gradient(to right, #ff4b2b, #f15e81);
 }
  
 .card-deck .card:nth-child(1) #symbol::before {
