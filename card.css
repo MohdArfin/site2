@@ -53,14 +53,14 @@ font-size: clamp(40px, 15vw, 100px);
     background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
 }
 .card-back-side{
-    transform: rotatey(180deg);
+    -webkit-transform: rotatey(180deg);
     background-color: #62ecda;
 }
 .card:hover .card-front-side{
-    transform: rotatey(-180deg);
+    -webkit-transform: rotatey(-180deg);
 }
 .card:hover .card-back-side{
-    transform: rotatey(0deg);
+    -webkit-transform: rotatey(0deg);
 }
 /*front side*/
 .cont-1{
