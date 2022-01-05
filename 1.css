@@ -22,8 +22,7 @@ marquee{
 }
 .btn a{
   text-decoration: none;
-    color: #efefef;
-    background: #161724;
+   color: #161724;
     padding: 2.5rem 5rem;
     border-radius: 1.3rem;
     position: relative;
