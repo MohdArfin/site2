@@ -124,7 +124,7 @@ a:hover::after {
 a:hover::before {
     animation: blue .4s 2;
 }
-/*
+
 @keyframes blue {
     0% { transform: translate(0) }
     20% { transform: translate(-.6rem, .6rem) }
