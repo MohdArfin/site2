@@ -1,10 +1,15 @@
 #snapchat{
+               height: 100vh;
+               width: 100%;
+        
+}
+.snapchat{
         align-items: center;
         justify-content: center;
         align-items: center;
         display: flex;
         position: relative;
-        
+        left
         height: 150px;
         width: 150px;
         border-radius: 5%;
