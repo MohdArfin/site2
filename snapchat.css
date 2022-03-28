@@ -4,12 +4,12 @@
         
 }
 .snapchat{
+        
+        display: flex;
+        position: relative;
         align-items: center;
         justify-content: center;
         align-items: center;
-        display: flex;
-        position: absolute;
-        right: 50%;
         height: 200px;
         width: 200px;
         border-radius: 5%;
