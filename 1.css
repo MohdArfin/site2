@@ -60,6 +60,10 @@ a{
   transform: translate(-50%, -50%);
 }*/
 
+
+#social-id{
+          height:300px;
+}
 .card {
   width: 50px;
   height: 250px;
