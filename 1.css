@@ -65,7 +65,7 @@ a{
           height:250px;
           padding: 10px 0px 0px 0px;
           margin: 10px 0px 10px 0px;
-          
+          box-sizing: inherit;
 }
 .card {
   width: 50px;
@@ -237,4 +237,5 @@ a{
      align-justify;center;
      padding: 25px 0px 0px 0px;
      margin: 25px 0px 0px 0px;
+     box-sizing: inherit;
 }
