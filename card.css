@@ -22,7 +22,7 @@ font-size: clamp(40px, 15vw, 100px);
 #content{
     margin: 40px 0px 40px 0px;
     height: 30vh;
-    width:70%;
+    width:  80%;
     display: flex;
     position: relative;
     justify-content: center;
