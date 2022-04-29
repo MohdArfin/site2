@@ -43,7 +43,7 @@ a{
   text-decoration: none;
 }
 nav{
-    height:100px;
+    height:200px;
 
 }
 .nav {
@@ -65,16 +65,16 @@ nav{
   transform: translate(-50%, -50%);
 }*/
 #sticker{
-      height: 100px;
-      width: 100px;
+      height: 200px;
+      width: 300px;
       position: absolute;
       top: 0px;
       left: 5px;
       
 }
 .sticker{
-       height: 100px;
-       width: 100px;
+       height: 200px;
+       width: 300px;
        position: relative;
        box-sizing: inherit;
 
