@@ -9,10 +9,7 @@ body {
   text-transform: uppercase;
   text-shadow: 2px 3px 2px rgba(51, 55, 69, 0.6);
 }
-nav{
-    height:100px;
 
-}
 .body {
   background-color:#000000;
 }
@@ -45,6 +42,10 @@ h2{
 a{
   text-decoration: none;
 }
+nav{
+    height:100px;
+
+}
 .nav {
      color:#ffffff;
 }
@@ -64,16 +65,16 @@ a{
   transform: translate(-50%, -50%);
 }*/
 #sticker{
-      height: 150px;
-      width: 150px;
+      height: 100px;
+      width: 100px;
       position: absolute;
-      top: 5px;
+      top: 0px;
       left: 5px;
       
 }
 .sticker{
-       height: 150px;
-       width: 150px;
+       height: 100px;
+       width: 100px;
        position: relative;
        box-sizing: inherit;
 
