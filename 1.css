@@ -60,12 +60,18 @@ a{
   transform: translate(-50%, -50%);
 }*/
 #sticker{
-      height: 5px;
-      width: 5px;
-      position: relative;
+      height: 150px;
+      width: 150px;
+      position: absolute;
       top: 5px;
       left: 5px;
       
+}
+.sticker{
+       height: 5px;
+       width: 5px;
+       position: relative;
+
 }
 
 #social-id{
