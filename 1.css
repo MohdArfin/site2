@@ -16,10 +16,6 @@ body {
 #background{
        margin: 0px 5px 0px 5px;
 }
-marquee{
-        width:300px;
-  
-}
 .btn a{
   text-decoration: none;
    color: #161724;
@@ -54,6 +50,10 @@ nav{
  left:150px;
  color:#9969ff;
   dispaly: flex;
+}
+marquee{
+        width:200px;
+  
 }
 
 .h6{
