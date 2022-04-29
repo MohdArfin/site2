@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="snapchat.css">
 </head>
 <body class='body'>
+    <div id='name-id'>
+    </div>
     
        <!--nav text-->
       <nav xs='12' sm='12' md='12' lg='12'>
@@ -97,5 +99,19 @@
     <script src="jquery.min.js"></script>
     <script src="bootstrap.min.js"></script>
     <script type="text/javascript" src="NAME.json"></script>
+   <script>
+    var params = {
+        container: document.getElementById('name-id'),
+        renderer: 'svg',
+        loop: true,
+        autoplay: true,
+        animationData: animationData
+    };
+
+    var anim;
+
+    anim = lottie.loadAnimation(params);
+
+</script>
 </body>
 </html>
