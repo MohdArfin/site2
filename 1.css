@@ -50,6 +50,8 @@ nav{
      color:#ffffff;
 }
 #nav-text{
+ position: absolute;
+ top: 8px;
  color:#9969ff;
   text-align: center;
  /* background: #7a41ff;
