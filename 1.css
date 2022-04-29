@@ -68,9 +68,10 @@ a{
       
 }
 .sticker{
-       height: 5px;
-       width: 5px;
+       height: 150px;
+       width: 150px;
        position: relative;
+       box-sizing: inherit;
 
 }
 
