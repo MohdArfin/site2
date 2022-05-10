@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="snapchat.css">
 </head>
 <body class='body'>
-    <div id='name-id' class='icon-container'>
+    <div id='animationData' >
     </div>
     
        <!--nav text-->
@@ -99,33 +99,24 @@
     <script src="jquery.min.js"></script>
     <script src="bootstrap.min.js"></script>
     <script src="lottie.min.js"></script>
-    <script type="text/javascript" src="NAME.json"></script>
-   <script>
+    <script type="text/javascript" src="/.name.json"></script>
+   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.4.3/lottie.min.js"></script>
+
+<script type="text/javascript" src="./data.json"></script>
+
+<script>
     var params = {
-        container: document.getElementById('name-id'),
+        container: document.getElementById('lottie'),
         renderer: 'svg',
         loop: true,
         autoplay: true,
-        animationData: var nameData
+        animationData: animationData
     };
 
     var anim;
 
-    anim = name-id.loadAnimation(params);
+    anim = lottie.loadAnimation(params);
 
-</script>
-                     <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.4/lottie.min.js">
-
-<script>
-  var animation = bodymovin.loadAnimation({
-  // animationData: { /* ... */ },
-  container: document.getElementById('icon-container'), // required
-  path: 'data.json', // required
-  renderer: 'svg', // required
-  loop: true, // optional
-  autoplay: true, // optional
-  name: "Demo Animation", // optional
-});
 </script>
 </body>
 </html>
