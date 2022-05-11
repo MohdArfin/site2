@@ -100,7 +100,7 @@
     <script src="jquery.min.js"></script>
     <script src="bootstrap.min.js"></script>
     <script src="lottie.min.js"></script>
-    <script type="text/javascript" src="/.name.json"></script>
+    <script type="text/javascript" src="./name.json"></script>
    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.4.3/lottie.min.js"></script>
 
 <script type="text/javascript" src="./data.json"></script>
@@ -118,6 +118,18 @@
 
     anim = lottie.loadAnimation(params);
 
+</script>
+                     
+                     
+                     
+                     <div id="debug"></div>
+<script>
+    fetch("name.json")
+        .then(response => response.json())
+        .then(data => {
+            console.log(data.sentence)
+            document.querySelector("#debug").innerText = data.sentecne
+        })
 </script>
 </body>
 </html>
