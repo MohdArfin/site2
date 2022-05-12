@@ -1,8 +1,14 @@
 #lottie{
             height: 500px;
-               width: auto;
+            width: auto;
+            justify-content: center;
+                align-items: center;
+               box-sizing: inherit;
 }
-
+#lote{
+height: 500px;
+ width: 100%;
+}
 
 
 #snapchat{
