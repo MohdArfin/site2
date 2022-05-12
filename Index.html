@@ -106,30 +106,18 @@
 <script type="text/javascript" src="name.json"></script>
 
 <script>
-    var params = {
-        container: document.getElementById('lottie'),
-        renderer: 'svg',
-        loop: true,
-        autoplay: true,
-        animationData: animationData
-    };
-
-    var anim;
-
-    anim = lottie.loadAnimation(params);
-
+    
+    let lottiePlayer = lottie.loadAnimation({
+  container: document.querySelector("#lottie"),
+  renderer: "svg",
+  loop: false,
+  autoplay: false,
+  path: "name.json",
+});
+    
 </script>
                      
                      
-                     
-                     <div id="debug"></div>
-<script>
-    fetch("name.json")
-        .then(response => response.json())
-        .then(data => {
-            console.log(data.sentence)
-            document.querySelector("#debug").innerText = data.sentecne
-        })
-</script>
+ 
 </body>
 </html>
